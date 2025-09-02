@@ -58,7 +58,8 @@ Sample line:
 * Tri Nguyen
 * Mark
 
-Course: ITEC3020 – Web Technologies
-Final Project, York University
+Course: ITEC3020 – Internet Client-Server Systems
+Assignment #3, York University
 
 Data files are not provided because they are too big.
+
